@@ -144,8 +144,8 @@ Dashboard interactivo con mapa coroplético por departamento, línea de evoluci�
 
 ## Herramientas utilizadas
 
-!\[Excel](https://img.shields.io/badge/Microsoft\_Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
-!\[Power Query](https://img.shields.io/badge/Power\_Query-2E6DA4?style=flat\&logo=microsoft\&logoColor=white)
+- Microsoft Excel 2019
+- Power Query
 
 \---
 
