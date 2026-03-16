@@ -3,7 +3,7 @@
 
 Análisis del índice de envejecimiento por departamento · Censos 1980–2022  
 **Fuente:** INDEC · Censo Nacional de Población, Hogares y Viviendas 2022 · Resultados definitivos  
-**Etapas completadas:** Excel · SQL &nbsp;|&nbsp; **En progreso:** Tableau
+**Etapas completadas:** Excel · SQL · Tableau
 
 ---
 
@@ -174,10 +174,10 @@ IE-SanLuis-Portfolio/
 
 ---
 
-## Próxima etapa
-
 ### Etapa 3 · Tableau
-Dashboard interactivo conectado a la hoja de cálculo 'Datos_largo' de la primer etapa. Incluirá mapa coroplético por departamento, línea de evolución temporal y filtros por año censal. Se publicará en Tableau Public con link desde este README.
+Dashboard interactivo conectado a la hoja de cálculo 'Datos_largo' de la primer etapa. Incluye ranking de envejecimiento por departamento, línea de evolución temporal y filtros por año censal. Se encuentra publicado en Taleau Public en el siguiente link:
+
+https://public.tableau.com/views/IE-SanLuis-Envejecimiento-Censos/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
