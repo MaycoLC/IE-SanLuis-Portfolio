@@ -54,7 +54,7 @@ El archivo `IE\_SanLuis\_FINAL.xlsx` contiene las siguientes hojas:
 |Hoja|Contenido|
 |-|-|
 |`Datos base`|Tabla original del INDEC normalizada. Formato ancho: un año censal por columna.|
-|`Datos\_largo`|Tabla transformada con Power Query. Columnas: Departamento · Año · IE. Usada como fuente de la tabla dinámica.|
+|`Datos_largo`|Tabla transformada con Power Query. Columnas: Departamento · Año · IE. Usada como fuente de la tabla dinámica.|
 |`Indicadores`|Variación absoluta, variación relativa (%) y ranking calculados con fórmulas Excel vinculadas a Datos base.|
 |`TD Evolución`|Tabla dinámica con evolución del IE por año censal y departamento. Incluye slicers de Departamento y Año.|
 |`Dashboard`|Los tres gráficos principales reunidos: ranking provincial, comparativa 2010 vs 2022 y evolución temporal.|
@@ -115,7 +115,7 @@ El código 74 representa la provincia en su conjunto, no un departamento. Inclui
 El período 2010–2022 es el más reciente y el de mayor aceleración. Es el intervalo más relevante para comprender la dinámica actual del envejecimiento en la provincia.
 
 **¿Por qué los slicers solo controlan el gráfico de evolución temporal?**  
-Los slicers filtran tablas dinámicas. El gráfico de líneas está construido sobre la TD de evolución, mientras que el ranking y la comparativa se construyen directamente sobre la hoja Indicadores, que no es una tabla dinámica. Esta distinción es intencional: los datos de situación actual (ranking, comparativa) son definitivos; los datos históricos (evolución) se prestan a exploración interactiva.
+Las segmentaciones filtran tablas dinámicas. El gráfico de líneas está construido sobre la TD de evolución, mientras que el ranking y la comparativa se construyen directamente sobre la hoja Indicadores, que no es una tabla dinámica. Esta distinción es intencional: los datos de situación actual (ranking, comparativa) son definitivos; los datos históricos (evolución) se prestan a exploración interactiva.
 
 \---
 
@@ -126,7 +126,7 @@ Este proyecto siguió una metodología de documentación continua con 4 fases:
 1. **Preparación y limpieza** — normalización de la tabla del INDEC, transformación a formato largo con Power Query.
 2. **Análisis e indicadores** — cálculo de variación absoluta, relativa y ranking con fórmulas vinculadas.
 3. **Visualización** — tres gráficos con paleta de azules consistente y línea de referencia provincial.
-4. **Documentación** — bitácora de sesiones, capturas de proceso y README.
+4. **Documentación** — Registro de sesiones, capturas de proceso y README.
 
 \---
 
