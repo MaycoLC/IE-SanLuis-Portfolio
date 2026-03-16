@@ -160,16 +160,15 @@ IE-SanLuis-Portfolio/
 │   ├── original/
 │   │   └── c2022_sanluis_est_c8_19.xlsx    ← archivo INDEC sin modificar
 │   └── procesados/
-│       ├── IE_SanLuis_FINAL.xlsx
-│       └── ie_sanluis_largo_clean.csv      ← paso intermedio de transformación
+│       └── ie_sanluis_largo.csv      ← paso intermedio de transformación
 ├── 02_capturas/
 │   ├── fase1_excel/                        ← CP01 a CP12
-│   └── fase2_sql/                          ← SQL_CP01 a SQL_CP05
+│   └── fase2_sql/                          ← SQL_CP01 a SQL_CP08
 ├── 03_sql/
 │   ├── 01_crear_base_datos.sql
 │   ├── 02_crear_tabla.sql
-│   ├── 03_queries_analisis.sql
-│   └── 04_insertar_datos.sql
+│   ├── 03_indertar_datos.sql
+│   └── 04_queries_analisis.sql
 └── README.md
 ```
 
@@ -178,7 +177,7 @@ IE-SanLuis-Portfolio/
 ## Próxima etapa
 
 ### Etapa 3 · Tableau
-Dashboard interactivo conectado al CSV exportado desde la Query 7. Incluirá mapa coroplético por departamento, línea de evolución temporal y filtros por año censal. Se publicará en Tableau Public con link desde este README.
+Dashboard interactivo conectado a la hoja de cálculo 'Datos_largo' de la primer etapa. Incluirá mapa coroplético por departamento, línea de evolución temporal y filtros por año censal. Se publicará en Tableau Public con link desde este README.
 
 ---
 
