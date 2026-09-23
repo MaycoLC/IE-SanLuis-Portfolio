@@ -175,7 +175,7 @@ IE-SanLuis-Portfolio/
 ---
 
 ### Etapa 3 · Tableau
-Dashboard interactivo conectado a la hoja de cálculo 'Datos_largo' de la primer etapa. Incluye ranking de envejecimiento por departamento, línea de evolución temporal y filtros por año censal. Se encuentra publicado en Taleau Public en el siguiente link:
+Dashboard interactivo conectado a la hoja de cálculo 'Datos_largo' de la primer etapa. Incluye ranking de envejecimiento por departamento, línea de evolución temporal y filtros por año censal. Se encuentra publicado en Tableau Public en el siguiente link:
 
 https://public.tableau.com/views/IE-SanLuis-Envejecimiento-Censos/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
