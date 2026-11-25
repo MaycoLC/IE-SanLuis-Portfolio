@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👥 Índice de Envejecimiento · Provincia de San Luis
+# Índice de Envejecimiento · Provincia de San Luis
 
 **El índice provincial casi se duplicó en 42 años: de 26 (1980) a 47 (2022)**
 
